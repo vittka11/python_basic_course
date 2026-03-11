@@ -13,7 +13,7 @@ middle = (len(number) + 1) // 2
 result = [number[:middle], number[middle:]]
 print(result)
 
-number = [1,]
+number = [1]
 middle = (len(number) + 1) // 2
 result = [number[:middle], number[middle:]]
 print(result)

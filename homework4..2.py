@@ -1,4 +1,4 @@
-numbers = (0, 2, 5, 4, 3, 6)
+numbers = (0, 1, 7, 2, 4, 8)
 if len(numbers) == 0:
     result = 0
 else:

@@ -1,1 +1,3 @@
-My dream is to become a python developer
+My dream is to become a python developer.
+I want to learn Git and Python.
+
